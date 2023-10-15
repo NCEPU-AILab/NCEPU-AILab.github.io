@@ -1,16 +1,19 @@
 ---
 layout: archive
-title: "Publications"
+title: "AI-assisted brain diseases diagnose"
 permalink: /publications/
 author_profile: true
 ---
+This space can be used to provide detailed introductions.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Computer Vision
+======
+This space can be used to provide detailed introductions.
 
-{% include base_path %}
+Survival Analysis
+======
+This space can be used to provide detailed introductions.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Wind Power Forecast
+======
+This space can be used to provide detailed introductions.
