@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 The laboratory consists of the following four research areas:
-AI-assisted brain diseases diagnose
-Computer Vision
-Survival Analysis
-Wind Power Forecast
+AI-assisted brain diseases diagnose,
+Computer Vision,
+Survival Analysis,
+Wind Power Forecast.
 
 Detailed descriptions of each project group can be placed in this area.
 
