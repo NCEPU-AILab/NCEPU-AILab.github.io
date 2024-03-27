@@ -75,21 +75,81 @@ redirect_from:
 
 **硕士研究生就业情况**
 
-| 毕业年份 | 硕士姓名                     | 就业去向                                           |
-| -------- | ---------------------------- | -------------------------------------------------- |
-| 2024     | 米春琳                       | University of Technology of Compiegne 留法公费读博 |
-| 李龙恺   | 中广核研究院                 |                                                    |
-| 2023     | 张宏蕾                       | University of Technology of Compiegne 留法公费读博 |
-| 蒋宇     | 中共丹阳市委党校             |                                                    |
-| 刘五一   | 中国银行软件中心             |                                                    |
-| 2022     | 冯一展                       | University of Technology of Troyes 留法公费读博    |
-| 2021     | 李常玲                       | 空军二十三厂                                       |
-| 杨韬燃   | 航天九院704所                |                                                    |
-| 2020     | 马卞                         | 北京工业大学攻读博士                               |
-| 张奥鑫   | 国家电网南瑞集团             |                                                    |
-| 2019     | 高雅弟                       | 国家电网信通公司                                   |
-| 杜婧     | 中国农业银行研发中心         |                                                    |
-| Usman    | 华能（巴基斯坦）能源有限公司 |                                                    |
-| 2018     | 张楠                         | 廊坊供电公司                                       |
-| Assem    | KMF (Kaz Micro Finance)      |                                                    |
-| 2017     | 周会友                       | 中国联通北京分公司                                 |
+<table>
+	<tr>
+	    <th>毕业年份</th>
+	    <th>硕士姓名</th>
+	    <th>就业去向</th>  
+	</tr >
+	<tr >
+	    <td rowspan="2">2024</td>
+	    <td>米春琳</td>
+	    <td>University of Technology of Compiegne 留法公费读博</td>
+	</tr>
+	<tr>
+	    <td>李龙恺</td>
+	    <td>中广核研究院</td>
+	</tr>
+	<tr>
+        <td rowspan="3">2023</td>
+	    <td>张宏蕾</td>
+	    <td>University of Technology of Compiegne 留法公费读博</td>
+	</tr>
+	<tr>
+	    <td>蒋宇</td>
+	    <td>中共丹阳市委党校</td>
+	</tr>
+	<tr><td>刘五一</td>
+	    <td>中国银行软件中心</td>
+	</tr>
+	<tr>
+        <td>2022</td>
+	    <td>冯一展</td>
+	    <td>University of Technology of Troyes 留法公费读博</td>
+	</tr>
+	<tr>
+        <td rowspan="2">2021</td>
+	    <td>李常玲</td>
+	    <td>空军二十三厂</td>
+	</tr>
+	<tr>
+	    <td>杨韬燃</td>
+	    <td>航天九院704所</td>
+	</tr>
+	<tr>
+        <td rowspan="2">2020</td>
+	    <td >马卞</td>
+	    <td>北京工业大学攻读博士</td>
+	</tr>
+	<tr>
+	    <td >张奥鑫</td>
+	    <td>国家电网南瑞集团</td>
+	</tr>
+	<tr>
+	    <td rowspan="3">2019</td>
+	    <td >高雅弟</td>
+	    <td >国家电网信通公司</td>
+	</tr>
+	<tr>
+	    <td >杜婧</td>
+	    <td >中国农业银行研发中心</td>
+	</tr>
+	<tr>
+	    <td >Usman</td>
+	    <td >华能（巴基斯坦）能源有限公司</td>
+	</tr>
+	<tr>
+        <td rowspan="2">2018</td>
+	    <td >张楠</td>
+	    <td>廊坊供电公司</td>
+	</tr>
+	<tr>
+	    <td >Assem</td>
+	    <td>KMF (Kaz Micro Finance)</td>
+	</tr>
+    <tr>
+	    <td >2017</td>
+        <td >周会友</td>
+	    <td>中国联通北京分公司</td>
+	</tr>
+</table>
