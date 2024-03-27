@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "NCEPU-AILab"
-  avatar           : "/images/lib_logo.jpg"
+  avatar           : "lib_logo.JPG"
   bio              : "The introduction of NCEPU-AILab"
   location         : "NCEPU,Bejing,China"
   employer         :
