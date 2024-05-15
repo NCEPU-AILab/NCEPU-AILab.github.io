@@ -147,3 +147,4 @@ redirect_from:
 	    <td>中国联通北京分公司</td>
 	</tr>
 </table>
+![微信公众号](../images/AI-NCEPU.jpg)
