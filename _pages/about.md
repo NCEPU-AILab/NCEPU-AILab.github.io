@@ -149,6 +149,7 @@ redirect_from:
 </table>
 **实验室公众号** 
 <br />
+<br />
 如果感兴趣的话，可以关注我们的微信公众号哦！
 <br />
 <div align="center"> <img src="images/AI-NCEPU.jpg" width = 300 height = 300 /> </div>
