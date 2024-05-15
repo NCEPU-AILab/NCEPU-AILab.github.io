@@ -151,4 +151,4 @@ redirect_from:
 <br />
 如果感兴趣的话，可以关注我们的微信公众号哦！
 
-![微信公众号](images/AI-NCEPU.jpg)
+![微信公众号]([images/AI-NCEPU.jpg]#pic_center)
