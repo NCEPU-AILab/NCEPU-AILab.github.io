@@ -1,0 +1,17 @@
+on: push
+
+jobs:
+  deploy_pages_to_tencent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+    - name: pages
+      uses: appleboy/ssh-action@v0.1.10
+      with:
+        host: 49.232.237.12
+        username: root
+        key: ${{ secrets.PRIVATE_KEY }}
+        port: 22
+        command_timeout: 30m
+        script: | 
+          echo "Nice Job!!!"
