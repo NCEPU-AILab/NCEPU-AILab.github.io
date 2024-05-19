@@ -14,4 +14,5 @@ jobs:
         port: 22
         command_timeout: 30m
         script: | 
-          echo "Nice Job!!!"
+          /opt/ncepu/run.sh
+          echo "Build done!!!"
